@@ -16,6 +16,8 @@ setState是**合并**更新
 
 函数组件无法使用state，其内部没有`this`
 
+（Hooks 是 React 16.8 新增的特性，它可以让你在不编写 class 的情况下使用 state 以及其他的 React 特性）
+
 ## 2. Props
 
 React 中组件通过 `props` 属性接收外部传入的数据，
